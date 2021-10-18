@@ -12,8 +12,6 @@ function App() {
           <ContextApi />
         </lastName.Provider>
       </firstName.Provider>
-
-      {/* <ContextApi Value={"Naeem"} /> */}
     </div>
   );
 }

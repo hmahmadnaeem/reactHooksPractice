@@ -1,7 +1,6 @@
 import React from "react";
 import { Consumer } from "react";
 import { firstName, lastName } from "../../App";
-// import { FirstName } from "../contextApi/ContextApi";
 
 const ContextApi = () => {
   return (
